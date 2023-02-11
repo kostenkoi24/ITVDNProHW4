@@ -6,10 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Update="Result.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="TestHTMLCode.txt">
+    <None Update="Successors.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

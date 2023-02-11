@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Document>
+  <DocHeader>
+    <Data>2023.01.15</Data>
+  </DocHeader>
+  <Table>
+    <Row>
+      <Goods>iOS Платинум комплексний пакет налаштування</Goods>
+      <Amount>621</Amount>
+      <Qty>1</Qty>
+  </Row>
+    <Row>
+      <Goods>MEGOGO «Кіно і ТБ: Смартфон» 12 міс</Goods>
+      <Amount>600</Amount>
+      <Qty>1</Qty>
+  </Row>
+    <Row>
+      <Goods>Акция по ПРОМО коду</Goods>
+      <Amount>1</Amount>
+      <Qty>1</Qty>
+   </Row>
+  </Table>
+</Document>
